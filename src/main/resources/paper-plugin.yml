@@ -1,0 +1,4 @@
+name: SafeBulkCommandExecution
+version: '${project.version}'
+main: com.nickinnovates.safebulkcommandexecution.SafeBulkCommandExecution
+api-version: '1.20'
